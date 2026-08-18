@@ -1,0 +1,38 @@
+{
+  "product": "cash",
+  "marketplace": "gumroad",
+  "price_usd": 12,
+  "title": "Cash Stuffing Allocator Kit Printable PDF | Envelope Budget Planner with Exact Allocation Math, Labels & Tracker Sheets | Instant Download",
+  "description": "THE CASH STUFFING KIT WITH MATH THAT ACTUALLY ADDS UP.\n\nWhat you get: a 6-page printable kit: (1) instructions, (2) allocation worksheet with your exact per-envelope amounts, (3) printable envelope labels, (4) extra labels + sinking funds tracker, (5) monthly cash tracker, (6) savings goals & monthly overview. Print, cut, stuff, track.\n\nWhy this one is different: you enter your income and your category weights, and every envelope amount is calculated to the cent. A leftover/buffer line keeps the total exactly equal to your income — no formula mismatches, no missing money — the envelope system, done right. Your cash budget, calculated to the cent. A money organizer you can actually stick to.\n\nWHAT'S INSIDE\n- 6 pages, US Letter + A4 sizes (both included)\n- Exact allocation math: income → per-envelope amounts to the cent\n- A complete budget binder: worksheet, labels, trackers in one PDF\n- Printable envelope labels (category + amount)\n- Savings tracker sheets + monthly spending log\n- Extra blank labels for categories you add later\n\nHOW IT WORKS\n1. Buy, download, and open the PDF.\n2. Print US Letter or A4 — both are included.\n3. Fill in your income and category weights on the worksheet, then cut the labels, tape them on your cash envelopes, and stuff.\n\nYou receive: 1 PDF file (2 sizes). No physical item ships — this is an instant download — you receive the PDF as a digital download. Images show sample data.\n\nOrganizational tools, not legal or financial documents. Not legal advice — verify requirements with your state or a licensed professional.",
+  "tags": [
+    "cash stuffing",
+    "printable",
+    "cash envelope",
+    "budget planner",
+    "envelope system",
+    "cash budget",
+    "allocation worksheet",
+    "sinking funds",
+    "money organizer",
+    "digital download",
+    "budget binder",
+    "savings tracker",
+    "instant download"
+  ],
+  "images": [
+    "renders/cash/png/cash_01_cover_letter.png",
+    "renders/cash/png/cash_02_worksheet_letter.png",
+    "renders/cash/png/cash_03_labels_letter.png",
+    "renders/cash/png/cash_04_extras_letter.png",
+    "renders/cash/png/cash_05_tracker_letter.png",
+    "renders/cash/png/cash_06_goals_letter.png"
+  ],
+  "buy_url": "https://example.com/paperlife-cash-stuffing-kit",
+  "buy_url_note": "PLACEHOLDER — replaced by surf-studio with the live Gumroad URL at submission; nothing is posted from this repo.",
+  "evidence": [
+    "Etsy demand, marketplace pass 3, 2026-08-15: cash-stuffing kits with 10.8K+ reviews; budget sheets 10.7–16.4K reviews (idea card v-20260815-13)",
+    "Complaint spec from 4.5-star Etsy items, 2026-08-15: formula mismatches in printable budgets — this product sums to the cent and proves it on the worksheet",
+    "Etsy printable pricing observed $2–11 for static PDFs (pass 3, 2026-08-15); allocator version at $12"
+  ],
+  "notes": "Allocation is exact integer-cent math; weights must sum to exactly 100% or the generator refuses to run."
+}

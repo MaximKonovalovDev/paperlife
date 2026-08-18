@@ -1,0 +1,42 @@
+{
+  "product": "ice",
+  "marketplace": "etsy",
+  "price_usd": 14,
+  "title": "ICE Binder Printable PDF | Emergency Contact & Family Info Organizer | Medical, Insurance, Finances, Digital Accounts, Wishes | Download",
+  "description": "THE IN CASE OF EMERGENCY BINDER — 8 pages, one page per thing.\n\nWhat you get: an 8-page printable PDF binder: (1) cover & family information, (2) emergency contacts, (3) medical binder & health information, (4) insurance & policies, (5) financial organizer: finances, (6) digital accounts, (7) final wishes, (8) document checklist. Print it, fill it in by hand, and keep it where your family can find it: a true household binder, the whole family in one place.\n\nWhy this one is different: answer 12 short questions — the generator prints your binder (Windows one-click app included; or fill in by hand). Your answers print onto the cover, contacts, medical, and insurance pages. Everything else is clean labeled fill-in space — a life organizer, not a chore. No overwhelming hundred-field forms, no tiny print, no design work: a printable planner, ready to fill.\n\nWHAT'S INSIDE\n- 8 pages, US Letter + A4 sizes (both included)\n- 12 quick questions — the rest is blank fill-in\n- Windows one-click generator app included (paperlife.exe)\n- Blank tables: contacts, policies, accounts, documents\n- A final-wishes page with room for your own words\n- Every page labeled and dated\n\nHOW IT WORKS\n1. Buy, download, and open the PDF.\n2. Print US Letter or A4 — both are included.\n3. Fill it in by hand, or run the included Windows app (paperlife.exe): answer the 12 questions and it prints the binder with your answers pre-printed.\n\nYou receive: 1 PDF file (2 sizes) + the Windows one-click generator app. No physical item ships — this is an instant download — you receive the PDF as a digital download. Images show sample data.\n\nOrganizational tools, not legal or financial documents. Not legal advice — verify requirements with your state or a licensed professional.",
+  "tags": [
+    "ice binder",
+    "printable",
+    "emergency binder",
+    "home binder",
+    "household binder",
+    "organizer",
+    "digital download",
+    "printable planner",
+    "life organizer",
+    "medical binder",
+    "emergency contacts",
+    "financial organizer",
+    "instant download"
+  ],
+  "images": [
+    "renders/ice/png/ice_01_cover_letter.png",
+    "renders/ice/png/ice_02_contacts_letter.png",
+    "renders/ice/png/ice_03_medical_letter.png",
+    "renders/ice/png/ice_04_insurance_letter.png",
+    "renders/ice/png/ice_05_finances_letter.png",
+    "renders/ice/png/ice_06_digital_letter.png",
+    "renders/ice/png/ice_07_wishes_letter.png",
+    "renders/ice/png/ice_08_checklist_letter.png",
+    "renders/ice/png/ice_cover_a4.png"
+  ],
+  "buy_url": "https://example.com/paperlife-ice-binder",
+  "buy_url_note": "PLACEHOLDER — replaced by surf-studio with the live Etsy listing URL at submission; nothing is posted from this repo.",
+  "evidence": [
+    "Etsy demand, marketplace pass 3, 2026-08-15: ICE/home binder category listings carrying 983–38.7K reviews (idea card v-20260815-13)",
+    "Complaint spec from 4.5-star Etsy items, 2026-08-15: “too much to fill out” — this product answers with 12 questions max",
+    "Premium HTML binder dashboards sell for $21–45 (₪77–167) with thin competition (pass 3, 2026-08-15); this listing at $14",
+    "Etsy printable pricing observed $2–11 for static PDFs (pass 3, 2026-08-15); generator version at $14"
+  ],
+  "notes": "State-specific sections are intentionally absent (unverified — gate: state rule tables verified before any state content ships)."
+}

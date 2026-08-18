@@ -1,0 +1,38 @@
+{
+  "product": "networth",
+  "marketplace": "gumroad",
+  "price_usd": 14,
+  "title": "Net Worth Certificate Printable PDF | Personalized Financial Print — Assets, Liabilities & Net Worth Statement | Digital Download",
+  "description": "A CERTIFICATE THAT PUTS YOUR NUMBERS ON THE WALL.\n\nWhat you get: a one-page certificate of net worth: your name, the as-of date, assets, liabilities, and net worth — calculated and printed with thousands separators, framed by a classic certificate border, with a signature line to sign and date. Frame it — this money print turns a number into a milestone. Print a fresh one each year as your personal wealth tracker and watch the line move.\n\nWhy this one is different: the numbers are calculated, not hand-written. Assets minus liabilities is done for you — and if the result is negative, it is shown honestly, never hidden.\n\nWHAT'S INSIDE\n- One-page certificate, US Letter + A4 sizes (both included)\n- Name + as-of date printed on the certificate\n- Assets − liabilities = net worth, calculated to the cent\n- Thousands separators on every amount\n- Signature + date lines\n- Classic double-border certificate frame\n\nHOW IT WORKS\n1. Buy, download, and open the PDF.\n2. Print US Letter or A4 — both are included.\n3. Enter your name, date, assets and liabilities, generate, print, sign.\n\nYou receive: 1 PDF file (2 sizes). No physical item ships — this is an instant download. Images show sample data.\n\nOrganizational tools, not legal or financial documents. Not legal advice — verify requirements with your state or a licensed professional.",
+  "tags": [
+    "net worth",
+    "certificate",
+    "printable",
+    "digital download",
+    "financial print",
+    "wealth tracker",
+    "money print",
+    "assets",
+    "liabilities",
+    "signature line",
+    "personal wealth",
+    "milestone",
+    "net worth statement"
+  ],
+  "images": [
+    "renders/networth/png/cert_01_letter.png",
+    "renders/networth/png/cert_02_letter.png",
+    "renders/networth/png/cert_03_letter.png",
+    "renders/networth/png/cert_04_letter.png",
+    "renders/networth/png/cert_05_a4.png",
+    "renders/networth/png/cert_06_letter.png"
+  ],
+  "buy_url": "https://example.com/paperlife-net-worth-certificate",
+  "buy_url_note": "PLACEHOLDER — replaced by surf-studio with the live Gumroad URL at submission; nothing is posted from this repo.",
+  "evidence": [
+    "Flax-status angle from idea card v-20260815-13: display wealth status (net worth print) — the print is the product",
+    "Premium HTML dashboards in the money-print category sell for $21–45 with thin competition (pass 3, 2026-08-15); certificate at $14",
+    "Etsy printable pricing observed $2–11 for static PDFs (pass 3, 2026-08-15); calculated certificate at $14"
+  ],
+  "notes": "Negative net worth is rendered with an explicit minus sign and a note — no parentheses tricks."
+}
